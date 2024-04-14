@@ -1,0 +1,24 @@
+1. Data Preprocessing Steps:
+Data Cleaning: Removed special characters and normalized text.
+Feature Engineering: Extracted relevant features from text data.
+Label Encoding: Converted categorical labels to numerical values using LabelEncoder.
+Train-Test Split: Split the dataset into training and testing sets.
+2. Model Architecture:
+Pipeline: Constructed a pipeline with CountVectorizer for text feature extraction and SVC (Support Vector Classifier) with a linear kernel for classification.
+Training: Trained the model on the training data using the pipeline.
+3. Training Procedure:
+Data Split: Split the dataset into training and testing sets.
+Model Training: Fit the pipeline to the training data to train the model.
+Model Evaluation: Evaluated the model's performance using accuracy and other classification metrics.
+4. API Implementation:
+Framework: Implemented the API using FastAPI framework.
+Endpoint Definition: Defined a POST endpoint /predict_internal_status to accept external status descriptions.
+Request Schema: Defined a request schema ExternalStatus with the external_status attribute.
+Response Schema: Returned predicted internal status labels as a JSON response.
+5. Testing Results:
+Manual Testing: Tested the API manually by sending POST requests with sample external status descriptions.
+Validation: Validated the API predictions against a validation dataset.
+Accuracy: Evaluated the accuracy of the API predictions using classification metrics.
+6. Conclusion and Future Work:
+Summary: Documented the entire development process, including data preprocessing, model training, API implementation, and testing.
+Future Work: Discussed potential areas for improvement, such as model enhancements, additional features for the API, and scalability considerations.
