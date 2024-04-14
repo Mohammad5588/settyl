@@ -1,0 +1,1223 @@
+external_status,internal_status
+port out,port out
+terminal in,inbound terminal
+port in,port in
+vessel departure from first pol,departure
+vessel arrival at final pod,arrival
+departcu,departure
+gate in,gate in
+load on maersk sembawang  237e,loaded on vessel
+discharge,departure
+gate out,gate out
+gate in,gate in
+load on msc sveva  248e,loaded on vessel
+discharge,departure
+gate out,gate out
+departcu,departure
+gate in,gate in
+load on maersk sembawang  237e,loaded on vessel
+discharge,departure
+gate out,gate out
+gate in,gate in
+load on msc sveva  248e,loaded on vessel
+discharge,departure
+gate out,gate out
+gate in,gate in
+load,loaded on vessel
+discharge,departure
+on rail,on rail
+off rail,off rail
+gate out,gate out
+"gate out, empty",empty return
+gate in,gate in
+load on maersk sembawang  237e,loaded on vessel
+discharge,departure
+on rail,on rail
+off rail,off rail
+gate out,gate out
+"gate out, empty",empty return
+gate in,gate in
+load on msc orion  227n,loaded on vessel
+discharge,departure
+on rail,on rail
+off rail,off rail
+gate out,gate out
+port out,port out
+port out,port out
+port in,port in
+toll plaza crossed,in-transit
+toll plaza crossed,in-transit
+toll plaza crossed,in-transit
+toll plaza crossed,in-transit
+cfs out,outbound terminal
+cfs in,inbound terminal
+toll plaza crossed,in-transit
+toll plaza crossed,in-transit
+toll plaza crossed,in-transit
+toll plaza crossed,in-transit
+port out,port out
+port in,port in
+empty container release to shipper,empty container released
+gate in to outbound terminal,outbound terminal
+loaded on 'ym plum 175w' at port of loading ym plum 175w,loaded on vessel
+'ym plum 175w' departure from port of loading ym plum 175w,departure
+'ym plum 175w' arrival at port of discharging ym plum 175w,arrival
+unloaded from 'ym plum 175w' at port of discharging ym plum 175w,unloaded on vessel
+empty container returned from customer,empty return
+empty container release to shipper,empty container released
+empty container door arrival,arrival
+gate in to outbound cy,outbound terminal
+outbound rail loading,outbound terminal
+outbound rail departure,outbound terminal
+outbound rail arrival,outbound terminal
+outbound rail unloading,outbound terminal
+gate out from outbound cy,outbound terminal
+gate in to outbound terminal,outbound terminal
+loaded on 'tucapel 008e' at port of loading tucapel 008e,loaded on vessel
+'tucapel 008e' departure from port of loading tucapel 008e,departure
+'tucapel 008e' arrival at port of discharging tucapel 008e,arrival
+unloaded from 'tucapel 008e' at port of discharging tucapel 008e,unloaded on vessel
+empty container returned from customer,empty return
+"gate out, empty",empty return
+gate in,gate in
+gate out,gate out
+gate in,gate in
+load on cap san artemissio  240s,loaded on vessel
+discharge,departure
+gate out,gate out
+"gate out, empty",empty return
+gate in,gate in
+gate out,gate out
+gate in,gate in
+load on cap san artemissio  240s,loaded on vessel
+discharge,departure
+gate out,gate out
+terminal in,inbound terminal
+port in,port in
+cfs out,outbound terminal
+cfs in,inbound terminal
+cfs out,outbound terminal
+cfs in,inbound terminal
+port out,port out
+terminal out,outbound terminal
+port in,port in
+"gate out, empty",empty return
+gate in,gate in
+load on edith maersk  241e,loaded on vessel
+discharge,departure
+load on leonidio  248w,loaded on vessel
+discharge,departure
+gate out,gate out
+"gate out, empty",empty return
+gate in,gate in
+load on norfolk  226e,loaded on vessel
+discharge,departure
+gate out,gate out
+gate in,gate in
+gate out,gate out
+"gate out, empty",empty return
+gate in,gate in
+load on norfolk  226e,loaded on vessel
+discharge,departure
+gate out,gate out
+gate in,gate in
+gate out,gate out
+"gate out, empty",empty return
+gate in,gate in
+load on mumbai maersk  226w,loaded on vessel
+discharge,departure
+load on maersk evora  228n,loaded on vessel
+discharge,departure
+on rail,on rail
+off rail,off rail
+gate out,gate out
+"gate out, empty",empty return
+gate in,gate in
+load on mumbai maersk  226w,loaded on vessel
+discharge,departure
+load on maersk evora  228n,loaded on vessel
+discharge,departure
+on rail,on rail
+off rail,off rail
+gate out,gate out
+port out,port out
+port in,port in
+"gate out, empty",empty return
+gate in,gate in
+load on cma cgm don pascuale  242n,loaded on vessel
+discharge,departure
+load on pl germany  246n,loaded on vessel
+discharge,departure
+gate out,gate out
+gate in,gate in
+load on cap san sounio  239w,loaded on vessel
+discharge,departure
+load on cielo di rabat  243w,loaded on vessel
+discharge,departure
+gate out,gate out
+gate in,gate in
+load on cap san sounio  239w,loaded on vessel
+discharge,departure
+load on cielo di rabat  243w,loaded on vessel
+discharge,departure
+gate out,gate out
+"gate out, empty",empty return
+gate in,gate in
+load on gerner maersk  226n,loaded on vessel
+discharge,departure
+on rail,on rail
+off rail,off rail
+gate out,gate out
+"gate out, empty",empty return
+gate in,gate in
+load on gerner maersk  226n,loaded on vessel
+discharge,departure
+on rail,on rail
+off rail,off rail
+gate out,gate out
+"gate out, empty",empty return
+gate in,gate in
+load on maersk stepnica  242s,loaded on vessel
+discharge,departure
+gate out,gate out
+"gate out, empty",empty return
+gate in,gate in
+load on maersk stepnica  242s,loaded on vessel
+discharge,departure
+gate out,gate out
+"gate out, empty",empty return
+gate in,gate in
+gate out,gate out
+gate in,gate in
+load on maersk horsburgh  242e,loaded on vessel
+discharge,departure
+load on skagen maersk  248s,loaded on vessel
+discharge,departure
+gate out,gate out
+"gate out, empty",empty return
+gate in,gate in
+gate out,gate out
+gate in,gate in
+load on maersk horsburgh  242e,loaded on vessel
+discharge,departure
+load on skagen maersk  248s,loaded on vessel
+discharge,departure
+gate out,gate out
+port out,port out
+port in,port in
+gate out,gate out
+cfs out,outbound terminal
+cfs in,inbound terminal
+port out,port out
+port in,port in
+"gate out, empty",empty return
+gate in,gate in
+load on msc livorno  224n,loaded on vessel
+discharge,departure
+gate out,gate out
+gate in,gate in
+gate out,gate out
+gate in,gate in
+on rail,on rail
+off rail,off rail
+gate out,gate out
+"gate out, empty",empty return
+gate in,gate in
+gate out,gate out
+gate in,gate in
+load on san clemente  244e,loaded on vessel
+discharge,departure
+load on maersk guatemala  247e,loaded on vessel
+discharge,departure
+gate out,gate out
+"gate out, empty",empty return
+gate in,gate in
+gate out,gate out
+gate in,gate in
+load on san clemente  244e,loaded on vessel
+discharge,departure
+load on maersk guatemala  247e,loaded on vessel
+discharge,departure
+gate out,gate out
+port out,port out
+port in,port in
+toll plaza crossed,in-transit
+port out,port out
+port in,port in
+gate in,gate in
+load on nyk fushimi  115n,loaded on vessel
+discharge,departure
+gate out,gate out
+gate in,gate in
+gate out,gate out
+gate in,gate in
+gate out,gate out
+gate in,gate in
+load on milan maersk  242e,loaded on vessel
+discharge,departure
+gate out,gate out
+gate in,gate in
+gate out,gate out
+gate in,gate in
+load on milan maersk  242e,loaded on vessel
+discharge,departure
+gate out,gate out
+departcu,departure
+gate in,gate in
+load on sealand illinois  226e,loaded on vessel
+discharge,departure
+gate out,gate out
+gate in,gate in
+load on volga maersk  241n,loaded on vessel
+discharge,departure
+gate out,gate out
+departcu,departure
+gate in,gate in
+load on sealand illinois  226e,loaded on vessel
+discharge,departure
+gate out,gate out
+gate in,gate in
+load on volga maersk  241n,loaded on vessel
+discharge,departure
+gate out,gate out
+departcu,departure
+gate in,gate in
+on rail,on rail
+off rail,off rail
+gate out,gate out
+gate in,gate in
+load on maersk sembawang  237e,loaded on vessel
+discharge,departure
+load on maersk montana  246w,loaded on vessel
+load on bg ireland  247w,loaded on vessel
+discharge,departure
+discharge,departure
+gate out,gate out
+departcu,departure
+gate in,gate in
+on rail,on rail
+off rail,off rail
+gate out,gate out
+gate in,gate in
+load on maersk sembawang  237e,loaded on vessel
+discharge,departure
+load on maersk montana  246w,loaded on vessel
+load on bg ireland  247w,loaded on vessel
+discharge,departure
+discharge,departure
+gate out,gate out
+gate out,gate out
+cfs in,inbound terminal
+port out,port out
+"gate out, empty",empty return
+gate in,gate in
+load on northern jasper  027e,loaded on vessel
+discharge,departure
+on rail,on rail
+off rail,off rail
+gate out,gate out
+loaded usjax,loaded on vessel
+unloaded prsju,unloaded on vessel
+loaded usjax,loaded on vessel
+unloaded prsju,unloaded on vessel
+actual time of departure,departure
+expected time of departure,departure
+actual time of departure,departure
+expected time of departure,departure
+actual time of departure,departure
+actual time of departure,departure
+actual time of departure,departure
+expected time of departure,departure
+actual time of departure,departure
+expected time of departure,departure
+load,loaded on vessel
+discharge,departure
+gate out,gate out
+empty to shipper,empty container released
+vessel departure,departure
+vessel arrival,arrival
+empty to shipper,empty container released
+loaded on board,loaded on vessel
+vessel arrival,arrival
+empty to shipper,empty container released
+full load on rail for export,loaded on vessel
+train arrival for export,arrival
+loaded on board,loaded on vessel
+vessel departure,departure
+vessel arrival,arrival
+empty to shipper,empty container released
+full load on rail for export,loaded on vessel
+train arrival for export,arrival
+loaded on board,loaded on vessel
+vessel departure,departure
+vessel arrival,arrival
+import unloaded from rail,unloaded on vessel
+import loaded on rail,loaded on vessel
+full transshipment loaded,loaded on vessel
+full transshipment loaded,loaded on vessel
+export loaded on vessel,loaded on vessel
+empty to shipper,empty container released
+import unloaded from rail,unloaded on vessel
+import loaded on rail,loaded on vessel
+full transshipment loaded,loaded on vessel
+full transshipment loaded,loaded on vessel
+export loaded on vessel,loaded on vessel
+empty to shipper,empty container released
+export unloaded from rail,unloaded on vessel
+export rail departure,departure
+export loaded on rail,loaded on vessel
+empty to shipper,empty container released
+export unloaded from rail,unloaded on vessel
+export rail departure,departure
+export loaded on rail,loaded on vessel
+empty to shipper,empty container released
+port out,port out
+port in,port in
+cfs out,outbound terminal
+cfs in,inbound terminal
+port out,port out
+port in,port in
+full transshipment loaded,loaded on vessel
+export loaded on vessel,loaded on vessel
+empty to shipper,empty container released
+loaded at ts pol,loaded on vessel
+loaded at first pol,loaded on vessel
+loaded at ts pol,loaded on vessel
+loaded at first pol,loaded on vessel
+loaded at ts pol,loaded on vessel
+loaded at first pol,loaded on vessel
+loaded at ts pol,loaded on vessel
+loaded at first pol,loaded on vessel
+loaded at ts pol,loaded on vessel
+loaded at first pol,loaded on vessel
+loaded at ts pol,loaded on vessel
+loaded at first pol,loaded on vessel
+loaded at ts pol,loaded on vessel
+loaded at first pol,loaded on vessel
+loaded at ts pol,loaded on vessel
+loaded at first pol,loaded on vessel
+port out,port out
+port in,port in
+toll plaza crossed,in-transit
+cfs out,outbound terminal
+cfs in,inbound terminal
+port out,port out
+port in,port in
+loaded at ts pol,loaded on vessel
+loaded at first pol,loaded on vessel
+loaded at ts pol,loaded on vessel
+loaded at first pol,loaded on vessel
+loaded at ts pol,loaded on vessel
+loaded at first pol,loaded on vessel
+loaded at ts pol,loaded on vessel
+loaded at first pol,loaded on vessel
+loaded at ts pol,loaded on vessel
+loaded at first pol,loaded on vessel
+loaded at ts pol,loaded on vessel
+loaded at first pol,loaded on vessel
+gate in,gate in
+load,loaded on vessel
+discharge,departure
+load,loaded on vessel
+discharge,departure
+load,loaded on vessel
+discharge,departure
+gate out,gate out
+actual time of departure,departure
+expected time of departure,departure
+actual time of departure,departure
+expected time of departure,departure
+actual time of departure,departure
+expected time of departure,departure
+actual time of departure,departure
+expected time of departure,departure
+actual time of departure,departure
+expected time of departure,departure
+actual time of departure,departure
+expected time of departure,departure
+actual time of departure,departure
+expected time of departure,departure
+actual time of departure,departure
+expected time of departure,departure
+actual time of departure,departure
+expected time of departure,departure
+actual time of departure,departure
+expected time of departure,departure
+actual time of departure,departure
+expected time of departure,departure
+actual time of departure,departure
+expected time of departure,departure
+empty to shipper,empty container released
+loaded on board,loaded on vessel
+vessel departure,departure
+vessel arrival,arrival
+empty to shipper,empty container released
+loaded on board,loaded on vessel
+vessel departure,departure
+vessel arrival,arrival
+empty to shipper,empty container released
+loaded on board,loaded on vessel
+vessel departure,departure
+vessel arrival,arrival
+empty to shipper,empty container released
+loaded on board,loaded on vessel
+vessel departure,departure
+vessel arrival,arrival
+empty to shipper,empty container released
+loaded on board,loaded on vessel
+vessel departure,departure
+vessel arrival,arrival
+empty to shipper,empty container released
+loaded on board,loaded on vessel
+vessel departure,departure
+vessel arrival,arrival
+empty to shipper,empty container released
+loaded on board,loaded on vessel
+vessel departure,departure
+vessel arrival,arrival
+import unloaded from rail,unloaded on vessel
+import loaded on rail,loaded on vessel
+full transshipment loaded,loaded on vessel
+full transshipment loaded,loaded on vessel
+export loaded on vessel,loaded on vessel
+empty to shipper,empty container released
+import unloaded from rail,unloaded on vessel
+import loaded on rail,loaded on vessel
+full transshipment loaded,loaded on vessel
+full transshipment loaded,loaded on vessel
+export loaded on vessel,loaded on vessel
+empty to shipper,empty container released
+import unloaded from rail,unloaded on vessel
+import loaded on rail,loaded on vessel
+full transshipment loaded,loaded on vessel
+full transshipment loaded,loaded on vessel
+export loaded on vessel,loaded on vessel
+empty to shipper,empty container released
+import unloaded from rail,unloaded on vessel
+import loaded on rail,loaded on vessel
+full transshipment loaded,loaded on vessel
+full transshipment loaded,loaded on vessel
+export loaded on vessel,loaded on vessel
+empty to shipper,empty container released
+import unloaded from rail,unloaded on vessel
+import loaded on rail,loaded on vessel
+full transshipment loaded,loaded on vessel
+full transshipment loaded,loaded on vessel
+export loaded on vessel,loaded on vessel
+empty to shipper,empty container released
+import unloaded from rail,unloaded on vessel
+import loaded on rail,loaded on vessel
+full transshipment loaded,loaded on vessel
+full transshipment loaded,loaded on vessel
+export loaded on vessel,loaded on vessel
+empty to shipper,empty container released
+import unloaded from rail,unloaded on vessel
+import loaded on rail,loaded on vessel
+full transshipment loaded,loaded on vessel
+full transshipment loaded,loaded on vessel
+export loaded on vessel,loaded on vessel
+empty to shipper,empty container released
+import unloaded from rail,unloaded on vessel
+import loaded on rail,loaded on vessel
+full transshipment loaded,loaded on vessel
+full transshipment loaded,loaded on vessel
+export loaded on vessel,loaded on vessel
+empty to shipper,empty container released
+import unloaded from rail,unloaded on vessel
+import loaded on rail,loaded on vessel
+full transshipment loaded,loaded on vessel
+full transshipment loaded,loaded on vessel
+export loaded on vessel,loaded on vessel
+empty to shipper,empty container released
+import unloaded from rail,unloaded on vessel
+import loaded on rail,loaded on vessel
+full transshipment loaded,loaded on vessel
+full transshipment loaded,loaded on vessel
+export loaded on vessel,loaded on vessel
+empty to shipper,empty container released
+import unloaded from rail,unloaded on vessel
+import loaded on rail,loaded on vessel
+full transshipment loaded,loaded on vessel
+full transshipment loaded,loaded on vessel
+export loaded on vessel,loaded on vessel
+empty to shipper,empty container released
+departcu,departure
+gate in,gate in
+load on maersk sembawang  237e,loaded on vessel
+discharge,departure
+gate out,gate out
+gate in,gate in
+load on msc sveva  248e,loaded on vessel
+discharge,departure
+gate out,gate out
+departcu,departure
+gate in,gate in
+load on maersk sembawang  237e,loaded on vessel
+discharge,departure
+gate out,gate out
+gate in,gate in
+load on msc sveva  248e,loaded on vessel
+discharge,departure
+gate out,gate out
+departcu,departure
+gate in,gate in
+load on maersk sembawang  237e,loaded on vessel
+discharge,departure
+gate out,gate out
+gate in,gate in
+load on msc sveva  248e,loaded on vessel
+discharge,departure
+gate out,gate out
+departcu,departure
+gate in,gate in
+load on maersk sembawang  237e,loaded on vessel
+discharge,departure
+gate out,gate out
+gate in,gate in
+load on msc sveva  248e,loaded on vessel
+discharge,departure
+gate out,gate out
+departcu,departure
+gate in,gate in
+load on maersk sembawang  237e,loaded on vessel
+discharge,departure
+gate out,gate out
+gate in,gate in
+load on msc sveva  248e,loaded on vessel
+discharge,departure
+gate out,gate out
+departcu,departure
+gate in,gate in
+load on maersk sembawang  237e,loaded on vessel
+discharge,departure
+gate out,gate out
+gate in,gate in
+load on msc sveva  248e,loaded on vessel
+discharge,departure
+gate out,gate out
+departcu,departure
+gate in,gate in
+load on maersk sembawang  237e,loaded on vessel
+discharge,departure
+gate out,gate out
+gate in,gate in
+load on msc sveva  248e,loaded on vessel
+discharge,departure
+gate out,gate out
+departcu,departure
+gate in,gate in
+load on maersk sembawang  237e,loaded on vessel
+discharge,departure
+gate out,gate out
+gate in,gate in
+load on msc sveva  248e,loaded on vessel
+discharge,departure
+gate out,gate out
+departcu,departure
+gate in,gate in
+load on maersk sembawang  237e,loaded on vessel
+discharge,departure
+gate out,gate out
+gate in,gate in
+load on msc sveva  248e,loaded on vessel
+discharge,departure
+gate out,gate out
+departcu,departure
+gate in,gate in
+load on maersk sembawang  237e,loaded on vessel
+discharge,departure
+gate out,gate out
+gate in,gate in
+load on msc sveva  248e,loaded on vessel
+discharge,departure
+gate out,gate out
+departcu,departure
+gate in,gate in
+load on maersk sembawang  237e,loaded on vessel
+discharge,departure
+gate out,gate out
+gate in,gate in
+load on msc sveva  248e,loaded on vessel
+discharge,departure
+gate out,gate out
+departcu,departure
+gate in,gate in
+load on maersk sembawang  237e,loaded on vessel
+discharge,departure
+gate out,gate out
+gate in,gate in
+load on msc sveva  248e,loaded on vessel
+discharge,departure
+gate out,gate out
+departcu,departure
+gate in,gate in
+load on maersk sembawang  237e,loaded on vessel
+discharge,departure
+gate out,gate out
+gate in,gate in
+load on msc sveva  248e,loaded on vessel
+discharge,departure
+gate out,gate out
+departcu,departure
+gate in,gate in
+load on maersk sembawang  237e,loaded on vessel
+discharge,departure
+gate out,gate out
+gate in,gate in
+load on msc sveva  248e,loaded on vessel
+discharge,departure
+gate out,gate out
+departcu,departure
+gate in,gate in
+load on maersk sembawang  237e,loaded on vessel
+discharge,departure
+gate out,gate out
+gate in,gate in
+load on msc sveva  248e,loaded on vessel
+discharge,departure
+gate out,gate out
+departcu,departure
+gate in,gate in
+load on maersk sembawang  237e,loaded on vessel
+discharge,departure
+gate out,gate out
+gate in,gate in
+load on msc sveva  248e,loaded on vessel
+discharge,departure
+gate out,gate out
+departcu,departure
+gate in,gate in
+load on maersk sembawang  237e,loaded on vessel
+discharge,departure
+gate out,gate out
+gate in,gate in
+load on msc sveva  248e,loaded on vessel
+discharge,departure
+gate out,gate out
+"gate out, empty",empty return
+gate in,gate in
+load on msc orion  227n,loaded on vessel
+discharge,departure
+on rail,on rail
+off rail,off rail
+gate out,gate out
+"gate out, empty",empty return
+gate in,gate in
+load on msc orion  227n,loaded on vessel
+discharge,departure
+on rail,on rail
+off rail,off rail
+gate out,gate out
+departcu,departure
+gate in,gate in
+load on maersk sembawang  237e,loaded on vessel
+discharge,departure
+gate out,gate out
+gate in,gate in
+load on msc sveva  248e,loaded on vessel
+discharge,departure
+gate out,gate out
+departcu,departure
+gate in,gate in
+load on maersk sembawang  237e,loaded on vessel
+discharge,departure
+gate out,gate out
+gate in,gate in
+load on msc sveva  248e,loaded on vessel
+discharge,departure
+gate out,gate out
+departcu,departure
+gate in,gate in
+load on maersk sembawang  237e,loaded on vessel
+discharge,departure
+gate out,gate out
+gate in,gate in
+load on msc sveva  248e,loaded on vessel
+discharge,departure
+gate out,gate out
+departcu,departure
+gate in,gate in
+load on maersk sembawang  237e,loaded on vessel
+discharge,departure
+gate out,gate out
+gate in,gate in
+load on msc sveva  248e,loaded on vessel
+discharge,departure
+gate out,gate out
+departcu,departure
+gate in,gate in
+load on maersk sembawang  237e,loaded on vessel
+discharge,departure
+gate out,gate out
+gate in,gate in
+load on msc sveva  248e,loaded on vessel
+discharge,departure
+gate out,gate out
+departcu,departure
+gate in,gate in
+load on maersk sembawang  237e,loaded on vessel
+discharge,departure
+gate out,gate out
+gate in,gate in
+load on msc sveva  248e,loaded on vessel
+discharge,departure
+gate out,gate out
+departcu,departure
+gate in,gate in
+load on maersk sembawang  237e,loaded on vessel
+discharge,departure
+gate out,gate out
+gate in,gate in
+load on msc sveva  248e,loaded on vessel
+discharge,departure
+gate out,gate out
+departcu,departure
+gate in,gate in
+load on maersk sembawang  237e,loaded on vessel
+discharge,departure
+gate out,gate out
+gate in,gate in
+load on msc sveva  248e,loaded on vessel
+discharge,departure
+gate out,gate out
+departcu,departure
+gate in,gate in
+load on maersk sembawang  237e,loaded on vessel
+discharge,departure
+gate out,gate out
+gate in,gate in
+load on msc sveva  248e,loaded on vessel
+discharge,departure
+gate out,gate out
+departcu,departure
+gate in,gate in
+load on maersk sembawang  237e,loaded on vessel
+discharge,departure
+gate out,gate out
+gate in,gate in
+load on msc sveva  248e,loaded on vessel
+discharge,departure
+gate out,gate out
+departcu,departure
+gate in,gate in
+load on maersk sembawang  237e,loaded on vessel
+discharge,departure
+gate out,gate out
+gate in,gate in
+load on msc sveva  248e,loaded on vessel
+discharge,departure
+gate out,gate out
+departcu,departure
+gate in,gate in
+load on maersk sembawang  237e,loaded on vessel
+discharge,departure
+gate out,gate out
+gate in,gate in
+load on msc sveva  248e,loaded on vessel
+discharge,departure
+gate out,gate out
+departcu,departure
+gate in,gate in
+load on maersk sembawang  237e,loaded on vessel
+discharge,departure
+gate out,gate out
+gate in,gate in
+load on msc sveva  248e,loaded on vessel
+discharge,departure
+gate out,gate out
+departcu,departure
+gate in,gate in
+load on maersk sembawang  237e,loaded on vessel
+discharge,departure
+gate out,gate out
+gate in,gate in
+load on msc sveva  248e,loaded on vessel
+discharge,departure
+gate out,gate out
+departcu,departure
+gate in,gate in
+load on maersk sembawang  237e,loaded on vessel
+discharge,departure
+gate out,gate out
+gate in,gate in
+load on msc sveva  248e,loaded on vessel
+discharge,departure
+gate out,gate out
+departcu,departure
+gate in,gate in
+load on maersk sembawang  237e,loaded on vessel
+discharge,departure
+gate out,gate out
+gate in,gate in
+load on msc sveva  248e,loaded on vessel
+discharge,departure
+gate out,gate out
+departcu,departure
+gate in,gate in
+load on maersk sembawang  237e,loaded on vessel
+discharge,departure
+gate out,gate out
+gate in,gate in
+load on msc sveva  248e,loaded on vessel
+discharge,departure
+gate out,gate out
+departcu,departure
+gate in,gate in
+load on maersk sembawang  237e,loaded on vessel
+discharge,departure
+gate out,gate out
+gate in,gate in
+load on msc sveva  248e,loaded on vessel
+discharge,departure
+gate out,gate out
+departcu,departure
+gate in,gate in
+load on maersk sembawang  237e,loaded on vessel
+discharge,departure
+gate out,gate out
+gate in,gate in
+load on msc sveva  248e,loaded on vessel
+discharge,departure
+gate out,gate out
+departcu,departure
+gate in,gate in
+load on maersk sembawang  237e,loaded on vessel
+discharge,departure
+gate out,gate out
+gate in,gate in
+load on msc sveva  248e,loaded on vessel
+discharge,departure
+gate out,gate out
+loaded on board,loaded on vessel
+expected arrival update,arrival
+loaded on train,loaded on vessel
+rail arrival in-transit,arrival
+expected arrival at dest. ramp,arrival
+expected arrival place of delivery,arrival
+loaded on board,loaded on vessel
+expected arrival update,arrival
+loaded on train,loaded on vessel
+rail arrival in-transit,arrival
+expected arrival at dest. ramp,arrival
+expected arrival place of delivery,arrival
+loaded on board,loaded on vessel
+expected arrival update,arrival
+loaded on train,loaded on vessel
+rail arrival in-transit,arrival
+expected arrival at dest. ramp,arrival
+expected arrival place of delivery,arrival
+loaded on board,loaded on vessel
+expected arrival update,arrival
+loaded on train,loaded on vessel
+rail arrival in-transit,arrival
+expected arrival at dest. ramp,arrival
+expected arrival place of delivery,arrival
+loaded on board,loaded on vessel
+expected arrival update,arrival
+loaded on train,loaded on vessel
+rail arrival in-transit,arrival
+expected arrival at dest. ramp,arrival
+expected arrival place of delivery,arrival
+loaded on board,loaded on vessel
+expected arrival update,arrival
+loaded on train,loaded on vessel
+rail arrival in-transit,arrival
+expected arrival at dest. ramp,arrival
+expected arrival place of delivery,arrival
+loaded on board,loaded on vessel
+expected arrival update,arrival
+loaded on train,loaded on vessel
+rail arrival in-transit,arrival
+expected arrival at dest. ramp,arrival
+expected arrival place of delivery,arrival
+loaded on board,loaded on vessel
+expected arrival update,arrival
+loaded on train,loaded on vessel
+rail arrival in-transit,arrival
+expected arrival at dest. ramp,arrival
+expected arrival place of delivery,arrival
+empty container release to shipper,empty container released
+gate in to outbound terminal,outbound terminal
+loaded on 'marina one 001s' at port of loading marina one 001s,loaded on vessel
+'marina one 001s' departure from port of loading marina one 001s,departure
+'marina one 001s' arrival at port of discharging marina one 001s,arrival
+unloaded from 'marina one 001s' at port of discharging marina one 001s,unloaded on vessel
+empty container returned from customer,empty return
+empty container release to shipper,empty container released
+gate in to outbound terminal,outbound terminal
+loaded on 'marina one 001s' at port of loading marina one 001s,loaded on vessel
+'marina one 001s' departure from port of loading marina one 001s,departure
+'marina one 001s' arrival at port of discharging marina one 001s,arrival
+unloaded from 'marina one 001s' at port of discharging marina one 001s,unloaded on vessel
+empty container returned from customer,empty return
+empty container release to shipper,empty container released
+gate in to outbound terminal,outbound terminal
+loaded on 'marina one 001s' at port of loading marina one 001s,loaded on vessel
+'marina one 001s' departure from port of loading marina one 001s,departure
+'marina one 001s' arrival at port of discharging marina one 001s,arrival
+unloaded from 'marina one 001s' at port of discharging marina one 001s,unloaded on vessel
+empty container returned from customer,empty return
+empty container release to shipper,empty container released
+gate in to outbound terminal,outbound terminal
+loaded on 'marina one 001s' at port of loading marina one 001s,loaded on vessel
+'marina one 001s' departure from port of loading marina one 001s,departure
+'marina one 001s' arrival at port of discharging marina one 001s,arrival
+unloaded from 'marina one 001s' at port of discharging marina one 001s,unloaded on vessel
+empty container returned from customer,empty return
+empty container release to shipper,empty container released
+gate in to outbound terminal,outbound terminal
+loaded on 'marina one 001s' at port of loading marina one 001s,loaded on vessel
+'marina one 001s' departure from port of loading marina one 001s,departure
+'marina one 001s' arrival at port of discharging marina one 001s,arrival
+unloaded from 'marina one 001s' at port of discharging marina one 001s,unloaded on vessel
+empty container returned from customer,empty return
+empty container release to shipper,empty container released
+gate in to outbound terminal,outbound terminal
+loaded on 'marina one 001s' at port of loading marina one 001s,loaded on vessel
+'marina one 001s' departure from port of loading marina one 001s,departure
+'marina one 001s' arrival at port of discharging marina one 001s,arrival
+unloaded from 'marina one 001s' at port of discharging marina one 001s,unloaded on vessel
+empty container returned from customer,empty return
+empty container release to shipper,empty container released
+gate in to outbound terminal,outbound terminal
+loaded on 'marina one 001s' at port of loading marina one 001s,loaded on vessel
+'marina one 001s' departure from port of loading marina one 001s,departure
+'marina one 001s' arrival at port of discharging marina one 001s,arrival
+unloaded from 'marina one 001s' at port of discharging marina one 001s,unloaded on vessel
+empty container returned from customer,empty return
+empty container release to shipper,empty container released
+gate in to outbound terminal,outbound terminal
+loaded on 'marina one 001s' at port of loading marina one 001s,loaded on vessel
+'marina one 001s' departure from port of loading marina one 001s,departure
+'marina one 001s' arrival at port of discharging marina one 001s,arrival
+unloaded from 'marina one 001s' at port of discharging marina one 001s,unloaded on vessel
+empty container returned from customer,empty return
+empty container release to shipper,empty container released
+gate in to outbound terminal,outbound terminal
+loaded on 'marina one 001s' at port of loading marina one 001s,loaded on vessel
+'marina one 001s' departure from port of loading marina one 001s,departure
+'marina one 001s' arrival at port of discharging marina one 001s,arrival
+unloaded from 'marina one 001s' at port of discharging marina one 001s,unloaded on vessel
+empty container returned from customer,empty return
+"gate out, empty",empty return
+gate in,gate in
+load on mogens maersk  246w,loaded on vessel
+discharge,departure
+load on msc alexandra  248w,loaded on vessel
+discharge,departure
+gate out,gate out
+"gate out, empty",empty return
+gate in,gate in
+gate out,gate out
+gate in,gate in
+load on san clemente  244e,loaded on vessel
+discharge,departure
+load on maersk guatemala  247e,loaded on vessel
+discharge,departure
+gate out,gate out
+estimated time of arrival,arrival
+export loaded on vessel,loaded on vessel
+export unloaded from rail,unloaded on vessel
+export rail departure,departure
+export loaded on rail,loaded on vessel
+empty to shipper,empty container released
+estimated time of arrival,arrival
+export loaded on vessel,loaded on vessel
+export unloaded from rail,unloaded on vessel
+export rail departure,departure
+export loaded on rail,loaded on vessel
+empty to shipper,empty container released
+estimated time of arrival,arrival
+export loaded on vessel,loaded on vessel
+export unloaded from rail,unloaded on vessel
+export rail departure,departure
+export loaded on rail,loaded on vessel
+empty to shipper,empty container released
+estimated time of arrival,arrival
+export loaded on vessel,loaded on vessel
+export unloaded from rail,unloaded on vessel
+export rail departure,departure
+export loaded on rail,loaded on vessel
+empty to shipper,empty container released
+"gate out, empty",empty return
+gate in,gate in
+load on msc orion  227n,loaded on vessel
+discharge,departure
+on rail,on rail
+off rail,off rail
+gate out,gate out
+"gate out, empty",empty return
+gate in,gate in
+load on msc orion  227n,loaded on vessel
+discharge,departure
+on rail,on rail
+off rail,off rail
+gate out,gate out
+"gate out, empty",empty return
+gate in,gate in
+load on msc orion  227n,loaded on vessel
+discharge,departure
+on rail,on rail
+off rail,off rail
+gate out,gate out
+"gate out, empty",empty return
+gate in,gate in
+load on msc orion  227n,loaded on vessel
+discharge,departure
+on rail,on rail
+off rail,off rail
+gate out,gate out
+"gate out, empty",empty return
+gate in,gate in
+load on msc orion  227n,loaded on vessel
+discharge,departure
+on rail,on rail
+off rail,off rail
+gate out,gate out
+"gate out, empty",empty return
+gate in,gate in
+load on msc orion  227n,loaded on vessel
+discharge,departure
+on rail,on rail
+off rail,off rail
+gate out,gate out
+"gate out, empty",empty return
+gate in,gate in
+load on msc orion  227n,loaded on vessel
+discharge,departure
+on rail,on rail
+off rail,off rail
+gate out,gate out
+"gate out, empty",empty return
+gate in,gate in
+load on msc orion  227n,loaded on vessel
+discharge,departure
+on rail,on rail
+off rail,off rail
+gate out,gate out
+"gate out, empty",empty return
+gate in,gate in
+load on msc orion  227n,loaded on vessel
+discharge,departure
+on rail,on rail
+off rail,off rail
+gate out,gate out
+"gate out, empty",empty return
+gate in,gate in
+load on msc orion  227n,loaded on vessel
+discharge,departure
+on rail,on rail
+off rail,off rail
+gate out,gate out
+"gate out, empty",empty return
+gate in,gate in
+load on msc orion  227n,loaded on vessel
+discharge,departure
+on rail,on rail
+off rail,off rail
+gate out,gate out
+"gate out, empty",empty return
+gate in,gate in
+load on msc orion  227n,loaded on vessel
+discharge,departure
+on rail,on rail
+off rail,off rail
+gate out,gate out
+loaded at ts pol,loaded on vessel
+loaded at first pol,loaded on vessel
+loaded at ts pol,loaded on vessel
+loaded at first pol,loaded on vessel
+loaded at ts pol,loaded on vessel
+loaded at first pol,loaded on vessel
+loaded at ts pol,loaded on vessel
+loaded at first pol,loaded on vessel
+loaded at ts pol,loaded on vessel
+loaded at first pol,loaded on vessel
+loaded at ts pol,loaded on vessel
+loaded at first pol,loaded on vessel
+loaded at ts pol,loaded on vessel
+loaded at first pol,loaded on vessel
+loaded at ts pol,loaded on vessel
+loaded at first pol,loaded on vessel
+loaded at ts pol,loaded on vessel
+loaded at first pol,loaded on vessel
+loaded at ts pol,loaded on vessel
+loaded at first pol,loaded on vessel
+loaded at ts pol,loaded on vessel
+loaded at first pol,loaded on vessel
+loaded at ts pol,loaded on vessel
+loaded at first pol,loaded on vessel
+loaded at ts pol,loaded on vessel
+loaded at first pol,loaded on vessel
+loaded at ts pol,loaded on vessel
+loaded at first pol,loaded on vessel
+loaded at ts pol,loaded on vessel
+loaded at first pol,loaded on vessel
+loaded at ts pol,loaded on vessel
+loaded at first pol,loaded on vessel
+actual time of departure,departure
+actual time of departure,departure
+actual time of departure,departure
+actual time of departure,departure
+actual time of departure,departure
+actual time of departure,departure
+actual time of departure,departure
+actual time of departure,departure
+actual time of departure,departure
+actual time of departure,departure
+actual time of departure,departure
+actual time of departure,departure
+actual time of departure,departure
+actual time of departure,departure
+actual time of departure,departure
+actual time of departure,departure
+actual time of departure,departure
+actual time of departure,departure
+actual time of departure,departure
+actual time of departure,departure
+actual time of departure,departure
+actual time of departure,departure
+actual time of departure,departure
+actual time of departure,departure
+actual time of departure,departure
+expected time of departure,departure
+actual time of departure,departure
+expected time of departure,departure
+actual time of departure,departure
+expected time of departure,departure
+actual time of departure,departure
+expected time of departure,departure
+actual time of departure,departure
+actual time of departure,departure
+actual time of departure,departure
+actual time of departure,departure
+import unloaded from rail,unloaded on vessel
+import loaded on rail,loaded on vessel
+full transshipment loaded,loaded on vessel
+full transshipment loaded,loaded on vessel
+export loaded on vessel,loaded on vessel
+empty to shipper,empty container released
+import unloaded from rail,unloaded on vessel
+import loaded on rail,loaded on vessel
+full transshipment loaded,loaded on vessel
+full transshipment loaded,loaded on vessel
+export loaded on vessel,loaded on vessel
+empty to shipper,empty container released
+import unloaded from rail,unloaded on vessel
+import loaded on rail,loaded on vessel
+full transshipment loaded,loaded on vessel
+full transshipment loaded,loaded on vessel
+export loaded on vessel,loaded on vessel
+empty to shipper,empty container released
+import unloaded from rail,unloaded on vessel
+import loaded on rail,loaded on vessel
+full transshipment loaded,loaded on vessel
+full transshipment loaded,loaded on vessel
+export loaded on vessel,loaded on vessel
+empty to shipper,empty container released
+import unloaded from rail,unloaded on vessel
+import loaded on rail,loaded on vessel
+full transshipment loaded,loaded on vessel
+full transshipment loaded,loaded on vessel
+export loaded on vessel,loaded on vessel
+empty to shipper,empty container released
